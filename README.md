@@ -1,7 +1,7 @@
 ## Seja bem vindo! Eu sou o Patrick Knidel 👋
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrick-Knidel&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrick-Knidel&show_icons=true&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Knidel&layout=compact&theme=dracula">  
 </div>
 
 <div style="display: inline_block"><br>
